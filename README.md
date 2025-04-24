@@ -6,7 +6,7 @@ A multi-whatsapp bot for termux
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<a href="https://git.io/typing-svg"></a>
+<a href="https://git.io/typing-svg"><b>Lesta_Pro+By+Mr+Eliud</a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
