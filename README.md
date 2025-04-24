@@ -10,11 +10,15 @@ A multi-whatsapp bot for termux
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
----
+------------------------------------
 
 ### 🌟 **Join Our Community**
 
-[![Join Group](https://img.shields.io/badge/Join%20WhatsApp%20Group-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KJmsWPbJury9sE7lb67AOi)
+[![Join Group](https://img.shields.io/badge/Join%20WhatsApp%20Group-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://chat.whatsapp.com/KJmsWPbJury9sE7lb67AOi)
+---
+------------–------------------------
+[![Join
+Channel](https://img.shields.io/badge/join%20Whatsapp%20Channel-grey?style=for-the-badge&logo=whatsapp&logoColor=green)](https://whatsapp.com/channel/0029Vb5wEON0VycAbrl2Hf05)
 
 ---
-
+--------------------------------------
